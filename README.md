@@ -16,7 +16,7 @@ npm i -g @spreading/docuo
 
 ### Commands
 
-Run the below commands at the root of your Docuo project.
+Run the below commands at the root of your Docuo project. 
 
 #### `docuo dev`
 
